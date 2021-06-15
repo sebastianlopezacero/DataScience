@@ -1,0 +1,23 @@
+#Guía de Instalación de Anaconda y Python
+
+## Por qué Python para Data Science
+
+Si ya conoces el lenguaje Python no hace falta que te cuente porque es el elegido en la industria para dar vida a los proyectos de Data Science. Pero si no estás familiarizado con Python estas son algunas de sus características:
+
+- Es poderoso y sencillo
+- Tiene múltiples paquetes estadísticos y de aprendizaje automático, listos para usar
+- Una comunidad muy activa a la que siempre puedes consultar
+
+Y cuenta con muchas más, pero te invito a descubrirlas junto a mi mientras exploramos el mundo del Álgebra Lineal con Python.
+
+## Por qué Anaconda
+
+Anaconda nos provee de una plataforma muy completa para poder desarrollar nuestros proyectos de Data Science, simplifica la tarea de instalación y configuración de las distintas aplicaciones que necesitaremos usar en nuestro viaje. Podemos utilizarlo tanto por terminal como por interfaz gráfica (GUI). Por el momento avancemos con la segunda opción, es más amigable para quien no está acostumbrado a la línea de comandos.
+
+Algunas ventajas de utilizar Anaconda para tus proyectos son:
+
+- Manejar los entornos de trabajo con Conda (todas las dependencias de librerías se resuelven en el momento de instalación)
+- Posibilidad de compartir, colaborar y reproducir los proyectos
+- Puedes pasar tu proyecto a producción solo con un click (una vez configurado)
+
+Dentro de las variadas aplicaciones que nos ofrece Anaconda vamos a utilizar Jupyter Notebooks con Python 3.7.
